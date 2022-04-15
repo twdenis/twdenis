@@ -6,7 +6,7 @@
 
 
 <p align="center">
-
+<br>
   <img align="center" alt="Denis-Apple" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Apple_Computer_Logo_rainbow.svg">
 </p>
 

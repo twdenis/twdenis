@@ -17,6 +17,6 @@
 
  
 <div> 
-  <a href = "mailto:denis.andrade@live.com"><img src="https://img.shields.io/badge/Outlook-06091C?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denis-andrade-331617195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-06091C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:denis.andrade@live.com"><img src="https://img.shields.io/badge/Outlook-0F1216?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denis-andrade-331617195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0F1216?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
